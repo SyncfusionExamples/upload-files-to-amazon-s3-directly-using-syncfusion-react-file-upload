@@ -1,0 +1,15 @@
+
+.control-wrapper {
+    width: 380px;
+    padding: 35px;
+}
+  
+.control-wrapper .upload-btn {
+    margin: 20px 0px;
+}
+
+.control-wrapper .e-upload.custom-template .e-upload-files .e-upload-file-list .e-file-container .e-file-name {
+    display: block;
+    float:none;
+    max-width:none;
+}
